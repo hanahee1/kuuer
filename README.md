@@ -1,1 +1,1 @@
-# kuuer
+# Project Helper CLI
